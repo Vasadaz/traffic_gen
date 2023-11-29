@@ -1,0 +1,3 @@
+ftp://ftp:ftp@saas.rtc-nt.ru/file_50M.zip
+ftp://ftp:ftp@saas.rtc-nt.ru/file_150M.zip
+ftp://ftp:ftp@saas.rtc-nt.ru/file_500M.zip
